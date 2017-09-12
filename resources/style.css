@@ -1,3 +1,31 @@
 h1 {
-  color: red;
+  font-family: Helvetica;
+  font-size: 70px
+  font-weight: bold;
+  color: white;
+}
+
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+.navtop {
+  font-family: Helvetica;
+  font-size: 18px
+  color:white;
+}
+
+.ourprocess {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.identify {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.subtextprocess {
+  font-size: 14px;
 }
